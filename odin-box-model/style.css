@@ -1,4 +1,29 @@
 /*
 stylesheet for the odin-box-model
 
+padding increases the space between the edge of a box and the content inside of it;
+margin increases the space between a box and any others that sit next to it;
+and border adds space (even if it’s only a pixel or two) between the margin and the padding.
+
 */
+
+
+.container{
+    border:solid;
+    
+}
+
+.about-us{
+    border:solid;
+    
+}
+
+.blog{
+    border:solid;
+    
+}
+
+.contacts{
+    border:solid;
+    
+}
